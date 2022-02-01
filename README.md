@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm Gustavo Del 17y
 - 📖 I’m currently learning Java
-- 📫 How to reach me: gudellcastillo@gmail.com
+- 📫 How to reach me:[![Twitter Badge](https://img.shields.io/badge/-@_DeeIL_-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/_DeeIL_)](https://twitter.com/_DeeIL_) 
+[![Gmail Badge](https://img.shields.io/badge/-gudellcastillo@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gudellcastillo@gmail.com)](mailto:gudellcastillo@gmail.com)
 - 😄 Pronouns: He/His
 <div align="center">
   <a href="https://github.com/DeIIL">
